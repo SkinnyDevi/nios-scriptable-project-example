@@ -1,0 +1,23 @@
+{
+	"name": "nios-project-example",
+	"version": "1.0.0",
+	"description": "An example project of NIOS Scriptable scripts/widgets.",
+	"type": "module",
+	"scripts": {
+		"start": "tsc -w"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/SkinnyDevi/nios-scriptable-project-example.git"
+	},
+	"author": "SkinnyDevi",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/SkinnyDevi/nios-scriptable-project-example/issues"
+	},
+	"homepage": "https://github.com/SkinnyDevi/nios-scriptable-project-example#readme",
+	"dependencies": {
+		"nios-scriptable": "^1.0.1",
+		"typescript": "^5.3.3"
+	}
+}
